@@ -12,7 +12,7 @@
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-browserify": "^5.0.0",
-    "grunt-contrib-uglify": "^3.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
     "prova": "^3.0.0"
   },
   "dependencies": {
